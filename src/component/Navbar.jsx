@@ -2,6 +2,8 @@ import { useState } from "react";
 import { faSearch, faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
+
+
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
