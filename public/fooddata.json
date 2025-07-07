@@ -6,7 +6,7 @@
     "prepTime": "30 minutes",
     "cookTime": "45 minutes",
     "totalTime": "1 hour 15 minutes",
-    "image": "src/assets/biriyani.jpeg",
+    "image": "/assets/biriyani.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "marinade": [
@@ -57,7 +57,7 @@
     "prepTime": "15 minutes",
     "cookTime": "15 minutes",
     "totalTime": "30 minutes",
-    "image": "src/assets/chaomin.jpeg",
+    "image": "/assets/chaomin.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": [
@@ -86,7 +86,7 @@
     "prepTime": "20 minutes",
     "cookTime": "15 minutes",
     "totalTime": "35 minutes",
-    "image": "src/assets/chikenbreast.jpeg",
+    "image": "/assets/chikenbreast.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": [
@@ -114,7 +114,7 @@
     "prepTime": "8 hours",
     "cookTime": "15 minutes",
     "totalTime": "8 hours 15 minutes",
-    "image": "src/assets/dosa.jpeg",
+    "image": "/assets/dosa.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": ["1 cup rice", "1/4 cup urad dal", "Salt", "Water", "Oil"]
@@ -134,7 +134,7 @@
     "prepTime": "20 minutes",
     "cookTime": "20 minutes",
     "totalTime": "40 minutes",
-    "image": "src/assets/chillicheken.jpeg",
+    "image": "/assets/chillicheken.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": [
@@ -164,7 +164,7 @@
     "prepTime": "10 minutes",
     "cookTime": "10 minutes",
     "totalTime": "20 minutes",
-    "image": "src/assets/fryrice.jpeg",
+    "image": "/assets/fryrice.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": [
@@ -191,7 +191,7 @@
     "prepTime": "15 minutes",
     "cookTime": "20 minutes",
     "totalTime": "35 minutes",
-    "image": "src/assets/palakpaneer.jpeg",
+    "image": "/assets/palakpaneer.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": [
