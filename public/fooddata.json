@@ -220,7 +220,7 @@
     "prepTime": "20 minutes",
     "cookTime": "35 minutes",
     "totalTime": "55 minutes",
-    "image": "src/assets/chikencurry.jpeg",
+    "image": "/assets/chikencurry.jpeg",
     "buttonText": "See Complete Recipe",
     "ingredients": {
       "main": [
