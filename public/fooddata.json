@@ -1,330 +1,223 @@
 [
-    {
-        "title": "Chicken Biryani",
-        "servings": 4,
-        "prepTime": "30 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 15 minutes",
-        "image": "src/assets/biriyani.jpeg",
-        "ingredients": {
-            "marinade": [
-                "500g chicken",
-                "1 cup yogurt",
-                "1 tbsp ginger-garlic paste",
-                "1/2 tsp turmeric powder",
-                "1 tsp red chili powder",
-                "1 tsp coriander powder",
-                "1/2 tsp garam masala",
-                "Salt to taste",
-                "Juice of 1/2 lemon",
-                "Few mint and coriander leaves"
-            ],
-            "rice": [
-                "2 cups basmati rice",
-                "6 cups water",
-                "2-3 cloves",
-                "2 cardamoms",
-                "1 bay leaf",
-                "1 small cinnamon stick",
-                "Salt to taste"
-            ],
-            "biryani": [
-                "2 medium onions (sliced)",
-                "2 tbsp oil",
-                "2 tbsp ghee",
-                "Saffron in 3 tbsp warm milk",
-                "Mint and coriander leaves"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Marinate the Chicken",
-                "description": "Mix everything and marinate chicken for 30 mins to overnight."
-            },
-            {
-                "step": 2,
-                "title": "Cook the Rice",
-                "description": "Boil water with spices. Add soaked rice and cook till 80% done."
-            },
-            {
-                "step": 3,
-                "title": "Fry Onions",
-                "description": "Fry onions till golden brown. Keep half aside."
-            },
-            {
-                "step": 4,
-                "title": "Cook Chicken",
-                "description": "Cook marinated chicken until 80% done."
-            },
-            {
-                "step": 5,
-                "title": "Layer Biryani",
-                "description": "Layer chicken, rice, fried onions, saffron milk. Repeat."
-            },
-            {
-                "step": 6,
-                "title": "Dum Cook",
-                "description": "Seal and cook on low flame 15-20 mins. Rest 10 mins before opening."
-            }
-        ],
-        "servingSuggestions": [
-            "Raita",
-            "Salad",
-            "Boiled Egg"
-        ]
+  {
+    "title": "Chicken Biryani",
+    "servings": 4,
+    "prepTime": "30 minutes",
+    "cookTime": "45 minutes",
+    "totalTime": "1 hour 15 minutes",
+    "image": "src/assets/biriyani.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "marinade": [
+        "500g chicken",
+        "1 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp coriander powder",
+        "1/2 tsp garam masala",
+        "Salt to taste",
+        "Juice of 1/2 lemon",
+        "Few mint and coriander leaves"
+      ],
+      "rice": [
+        "2 cups basmati rice",
+        "6 cups water",
+        "2-3 cloves",
+        "2 cardamoms",
+        "1 bay leaf",
+        "1 small cinnamon stick",
+        "Salt to taste"
+      ],
+      "biryani": [
+        "2 medium onions (sliced)",
+        "2 tbsp oil",
+        "2 tbsp ghee",
+        "Saffron in 3 tbsp warm milk",
+        "Mint and coriander leaves"
+      ]
     },
-    {
-        "title": "Spicy Chowmein",
-        "servings": 2,
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes",
-        "image": "src/assets/chaomin.jpeg",
-        "ingredients": {
-            "main": [
-                "200g noodles",
-                "1 cup vegetables",
-                "1 tbsp soy sauce",
-                "1 tsp chili sauce",
-                "1 tsp vinegar",
-                "2 tbsp oil",
-                "Salt and pepper"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Boil Noodles",
-                "description": "Cook and drain noodles. Rinse with cold water."
-            },
-            {
-                "step": 2,
-                "title": "Stir-Fry Veggies",
-                "description": "Sauté vegetables on high flame."
-            },
-            {
-                "step": 3,
-                "title": "Add Noodles & Sauces",
-                "description": "Add sauces and noodles. Mix well and serve."
-            }
-        ],
-        "servingSuggestions": [
-            "Ketchup",
-            "Chili vinegar"
-        ]
+    "instructions": [
+      { "step": 1, "title": "Marinate the Chicken", "description": "Mix everything and marinate chicken for 30 mins to overnight." },
+      { "step": 2, "title": "Cook the Rice", "description": "Boil water with spices. Add soaked rice and cook till 80% done." },
+      { "step": 3, "title": "Fry Onions", "description": "Fry onions till golden brown. Keep half aside." },
+      { "step": 4, "title": "Cook Chicken", "description": "Cook marinated chicken until 80% done." },
+      { "step": 5, "title": "Layer Biryani", "description": "Layer chicken, rice, fried onions, saffron milk. Repeat." },
+      { "step": 6, "title": "Dum Cook", "description": "Seal and cook on low flame 15-20 mins. Rest 10 mins before opening." }
+    ],
+    "servingSuggestions": ["Raita", "Salad", "Boiled Egg"]
+  },
+  {
+    "title": "Spicy Chowmein",
+    "servings": 2,
+    "prepTime": "15 minutes",
+    "cookTime": "15 minutes",
+    "totalTime": "30 minutes",
+    "image": "src/assets/chaomin.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": [
+        "200g noodles",
+        "1 cup vegetables",
+        "1 tbsp soy sauce",
+        "1 tsp chili sauce",
+        "1 tsp vinegar",
+        "2 tbsp oil",
+        "Salt and pepper"
+      ]
     },
-    {
-        "title": "Grilled Chicken Breast",
-        "servings": 2,
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes",
-        "image": "src/assets/chikenbreast.jpeg",
-        "ingredients": {
-            "main": [
-                "2 chicken breasts",
-                "1 tbsp olive oil",
-                "1 tsp garlic paste",
-                "1/2 tsp pepper",
-                "1 tsp lemon juice",
-                "Salt",
-                "Mixed herbs"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Marinate Chicken",
-                "description": "Marinate chicken with all ingredients for 20 mins."
-            },
-            {
-                "step": 2,
-                "title": "Grill Chicken",
-                "description": "Grill on both sides until fully cooked."
-            }
-        ],
-        "servingSuggestions": [
-            "Steamed vegetables",
-            "Rice"
-        ]
+    "instructions": [
+      { "step": 1, "title": "Boil Noodles", "description": "Cook and drain noodles. Rinse with cold water." },
+      { "step": 2, "title": "Stir-Fry Veggies", "description": "Sauté vegetables on high flame." },
+      { "step": 3, "title": "Add Noodles & Sauces", "description": "Add sauces and noodles. Mix well and serve." }
+    ],
+    "servingSuggestions": ["Ketchup", "Chili vinegar"]
+  },
+  {
+    "title": "Grilled Chicken Breast",
+    "servings": 2,
+    "prepTime": "20 minutes",
+    "cookTime": "15 minutes",
+    "totalTime": "35 minutes",
+    "image": "src/assets/chikenbreast.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": [
+        "2 chicken breasts",
+        "1 tbsp olive oil",
+        "1 tsp garlic paste",
+        "1/2 tsp pepper",
+        "1 tsp lemon juice",
+        "Salt",
+        "Mixed herbs"
+      ]
     },
-    {
-        "title": "Classic South Dosa",
-        "servings": 2,
-        "prepTime": "8 hours",
-        "cookTime": "15 minutes",
-        "totalTime": "8 hours 15 minutes",
-        "image": "/Users/rafikakhatun/Desktop/foodRecipeReact/src/assets/dosa.jpeg",
-        "ingredients": {
-            "main": [
-                "1 cup rice",
-                "1/4 cup urad dal",
-                "Salt",
-                "Water",
-                "Oil"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Make Batter",
-                "description": "Soak and grind rice/dal. Ferment overnight."
-            },
-            {
-                "step": 2,
-                "title": "Cook Dosa",
-                "description": "Spread batter on tawa, cook with oil till crispy."
-            }
-        ],
-        "servingSuggestions": [
-            "Sambar",
-            "Coconut chutney"
-        ]
+    "instructions": [
+      { "step": 1, "title": "Marinate Chicken", "description": "Marinate chicken with all ingredients for 20 mins." },
+      { "step": 2, "title": "Grill Chicken", "description": "Grill on both sides until fully cooked." }
+    ],
+    "servingSuggestions": ["Steamed vegetables", "Rice"]
+  },
+  {
+    "title": "Classic South Dosa",
+    "servings": 2,
+    "prepTime": "8 hours",
+    "cookTime": "15 minutes",
+    "totalTime": "8 hours 15 minutes",
+    "image": "src/assets/dosa.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": ["1 cup rice", "1/4 cup urad dal", "Salt", "Water", "Oil"]
     },
-    {
-        "title": "Hot Chili Chicken",
-        "servings": 3,
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes",
-        "image": "src/assets/chillicheken.jpeg",
-        "ingredients": {
-            "main": [
-                "300g boneless chicken",
-                "1 tbsp soy sauce",
-                "1 tsp chili sauce",
-                "1 tsp vinegar",
-                "1 tbsp cornflour",
-                "1 onion (cubed)",
-                "1 capsicum (cubed)",
-                "Salt and pepper",
-                "Oil for frying"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Fry Chicken",
-                "description": "Marinate and deep-fry chicken."
-            },
-            {
-                "step": 2,
-                "title": "Prepare Sauce",
-                "description": "Sauté onion and capsicum. Add sauces and chicken."
-            }
-        ],
-        "servingSuggestions": [
-            "Fried rice",
-            "Hakka noodles"
-        ]
+    "instructions": [
+      { "step": 1, "title": "Make Batter", "description": "Soak and grind rice/dal. Ferment overnight." },
+      { "step": 2, "title": "Cook Dosa", "description": "Spread batter on tawa, cook with oil till crispy." }
+    ],
+    "servingSuggestions": ["Sambar", "Coconut chutney"]
+  },
+  {
+    "title": "Hot Chili Chicken",
+    "servings": 3,
+    "prepTime": "20 minutes",
+    "cookTime": "20 minutes",
+    "totalTime": "40 minutes",
+    "image": "src/assets/chillicheken.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": [
+        "300g boneless chicken",
+        "1 tbsp soy sauce",
+        "1 tsp chili sauce",
+        "1 tsp vinegar",
+        "1 tbsp cornflour",
+        "1 onion (cubed)",
+        "1 capsicum (cubed)",
+        "Salt and pepper",
+        "Oil for frying"
+      ]
     },
-    {
-        "title": "Egg Fried Rice",
-        "servings": 2,
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes",
-        "image": "src/assets/fryrice.jpeg",
-        "ingredients": {
-            "main": [
-                "2 cups cooked rice",
-                "2 eggs",
-                "1 onion",
-                "1 tbsp soy sauce",
-                "1 tsp oil",
-                "Salt and pepper"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Scramble Eggs",
-                "description": "Cook eggs and keep aside."
-            },
-            {
-                "step": 2,
-                "title": "Fry Rice",
-                "description": "Stir-fry onion, rice, eggs, and sauces together."
-            }
-        ],
-        "servingSuggestions": [
-            "Spring onions",
-            "Chili sauce"
-        ]
+    "instructions": [
+      { "step": 1, "title": "Fry Chicken", "description": "Marinate and deep-fry chicken." },
+      { "step": 2, "title": "Prepare Sauce", "description": "Sauté onion and capsicum. Add sauces and chicken." }
+    ],
+    "servingSuggestions": ["Fried rice", "Hakka noodles"]
+  },
+  {
+    "title": "Egg Fried Rice",
+    "servings": 2,
+    "prepTime": "10 minutes",
+    "cookTime": "10 minutes",
+    "totalTime": "20 minutes",
+    "image": "src/assets/fryrice.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": [
+        "2 cups cooked rice",
+        "2 eggs",
+        "1 onion",
+        "1 tbsp soy sauce",
+        "1 tsp oil",
+        "Salt and pepper"
+      ]
     },
-    {
-        "title": "Palak Paneer Delight",
-        "servings": 3,
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes",
-        "image": "src/assets/fryrice.jpeg",
-        "ingredients": {
-            "main": [
-                "200g paneer",
-                "2 cups spinach (pureed)",
-                "1 onion",
-                "1 tsp ginger-garlic paste",
-                "1/2 tsp turmeric",
-                "1/2 tsp garam masala",
-                "2 tbsp cream",
-                "Salt and oil"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Cook Gravy",
-                "description": "Cook onion, paste, and spinach. Add spices."
-            },
-            {
-                "step": 2,
-                "title": "Add Paneer",
-                "description": "Add paneer and finish with cream."
-            }
-        ],
-        "servingSuggestions": [
-            "Roti",
-            "Jeera rice"
-        ]
+    "instructions": [
+      { "step": 1, "title": "Scramble Eggs", "description": "Cook eggs and keep aside." },
+      { "step": 2, "title": "Fry Rice", "description": "Stir-fry onion, rice, eggs, and sauces together." }
+    ],
+    "servingSuggestions": ["Spring onions", "Chili sauce"]
+  },
+  {
+    "title": "Palak Paneer Delight",
+    "servings": 3,
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "totalTime": "35 minutes",
+    "image": "src/assets/palakpaneer.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": [
+        "200g paneer",
+        "2 cups spinach (pureed)",
+        "1 onion",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp turmeric",
+        "1/2 tsp garam masala",
+        "2 tbsp cream",
+        "Salt and oil"
+      ]
     },
-    {
-        "title": "Homestyle Chicken Curry",
-        "servings": 4,
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes",
-        "image": "src/assets/chikencurry.jpeg",
-        "ingredients": {
-            "main": [
-                "500g chicken",
-                "2 onions",
-                "1 tomato",
-                "1 tbsp ginger-garlic paste",
-                "1/2 tsp turmeric",
-                "1 tsp red chili powder",
-                "1 tsp coriander powder",
-                "1/2 tsp garam masala",
-                "Salt",
-                "Water"
-            ]
-        },
-        "instructions": [
-            {
-                "step": 1,
-                "title": "Cook Masala",
-                "description": "Cook onion, tomato, ginger-garlic and spices."
-            },
-            {
-                "step": 2,
-                "title": "Add Chicken",
-                "description": "Add chicken and water. Cook until soft."
-            }
-        ],
-        "servingSuggestions": [
-            "Steamed rice",
-            "Paratha"
-        ]
-    }
+    "instructions": [
+      { "step": 1, "title": "Cook Gravy", "description": "Cook onion, paste, and spinach. Add spices." },
+      { "step": 2, "title": "Add Paneer", "description": "Add paneer and finish with cream." }
+    ],
+    "servingSuggestions": ["Roti", "Jeera rice"]
+  },
+  {
+    "title": "Homestyle Chicken Curry",
+    "servings": 4,
+    "prepTime": "20 minutes",
+    "cookTime": "35 minutes",
+    "totalTime": "55 minutes",
+    "image": "src/assets/chikencurry.jpeg",
+    "buttonText": "See Complete Recipe",
+    "ingredients": {
+      "main": [
+        "500g chicken",
+        "2 onions",
+        "1 tomato",
+        "1 tbsp ginger-garlic paste",
+        "1/2 tsp turmeric",
+        "1 tsp red chili powder",
+        "1 tsp coriander powder",
+        "1/2 tsp garam masala",
+        "Salt",
+        "Water"
+      ]
+    },
+    "instructions": [
+      { "step": 1, "title": "Cook Masala", "description": "Cook onion, tomato, ginger-garlic and spices." },
+      { "step": 2, "title": "Add Chicken", "description": "Add chicken and water. Cook until soft." }
+    ],
+    "servingSuggestions": ["Steamed rice", "Paratha"]
+  }
 ]
