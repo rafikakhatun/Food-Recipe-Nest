@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "title": "Chicken Biryani",
     "servings": 4,
     "prepTime": "30 minutes",
@@ -47,7 +48,10 @@
     ],
     "servingSuggestions": ["Raita", "Salad", "Boiled Egg"]
   },
+
+
   {
+    "id": 2,
     "title": "Spicy Chowmein",
     "servings": 2,
     "prepTime": "15 minutes",
@@ -73,7 +77,10 @@
     ],
     "servingSuggestions": ["Ketchup", "Chili vinegar"]
   },
+
+
   {
+    "id": 3,
     "title": "Grilled Chicken Breast",
     "servings": 2,
     "prepTime": "20 minutes",
@@ -98,7 +105,10 @@
     ],
     "servingSuggestions": ["Steamed vegetables", "Rice"]
   },
+
+  
   {
+    "id": 4,
     "title": "Classic South Dosa",
     "servings": 2,
     "prepTime": "8 hours",
@@ -115,7 +125,10 @@
     ],
     "servingSuggestions": ["Sambar", "Coconut chutney"]
   },
+
+
   {
+    "id": 5,
     "title": "Hot Chili Chicken",
     "servings": 3,
     "prepTime": "20 minutes",
@@ -142,7 +155,10 @@
     ],
     "servingSuggestions": ["Fried rice", "Hakka noodles"]
   },
+
+
   {
+    "id": 6,
     "title": "Egg Fried Rice",
     "servings": 2,
     "prepTime": "10 minutes",
@@ -166,7 +182,10 @@
     ],
     "servingSuggestions": ["Spring onions", "Chili sauce"]
   },
+
+
   {
+    "id": 7,
     "title": "Palak Paneer Delight",
     "servings": 3,
     "prepTime": "15 minutes",
@@ -192,7 +211,10 @@
     ],
     "servingSuggestions": ["Roti", "Jeera rice"]
   },
+
+
   {
+    "id": 8,
     "title": "Homestyle Chicken Curry",
     "servings": 4,
     "prepTime": "20 minutes",
