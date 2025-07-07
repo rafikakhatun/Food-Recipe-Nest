@@ -9,7 +9,7 @@ function Navbar() {
 
   return (
     <>
-      <section className="w-full p-2 shadow bg-white fixed top-0 z-50">
+      <section className="w-full p-2 shadow bg-white fixed top-0 z-50 ">
         <nav className="flex justify-between items-center max-w-7xl mx-auto">
           {/* Logo */}
           <div className="p-2">

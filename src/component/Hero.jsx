@@ -14,7 +14,7 @@ function Hero() {
                 </div>
 
                 <div>
-                    <img className=" mr-2 w-96 h-96 rounded-lg" src={herobg} alt="herobg" />
+                    <img className=" mr-2  w-96 h-96 rounded-lg" src={herobg} alt="herobg" />
                 </div>
 
 
