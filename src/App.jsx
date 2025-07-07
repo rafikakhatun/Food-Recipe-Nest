@@ -1,5 +1,6 @@
 
 import './App.css'
+import Footer from './component/Footer'
 import Hero from './component/Hero'
 import Navbar from './component/Navbar'
 import Recipe from './component/Recipe'
@@ -16,6 +17,7 @@ function App() {
     <WhatCook></WhatCook>
     <Recipe></Recipe>
     <Subscribe></Subscribe>
+    <Footer></Footer>
 
 
      
