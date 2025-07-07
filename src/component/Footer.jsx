@@ -5,7 +5,7 @@ function Footer() {
 
         
 
-                <footer className=" w-full px-12 py-15 flex flex-col md:flex-row justify-between items-center gap-6 mt-15 bg-orange-50">
+                <footer className=" w-full px-18 py-12 flex flex-col md:flex-row justify-between items-center gap-6 mt-15 bg-orange-50">
 
 
                     <div>
@@ -21,7 +21,7 @@ function Footer() {
 
                     <div>
                         <h1 className="text-orange-500 text-lg font-semibold" >Support</h1>
-                        <ul>
+                        <ul className="mt-2 space-y-1">
                             <li className="text-gray-700 cursor-pointer hover:underline">FAQ</li>
                             <li className="text-gray-700 cursor-pointer hover:underline">Menbership</li>
                             <li className="text-gray-700 cursor-pointer hover:underline">User Policy</li>
@@ -32,7 +32,7 @@ function Footer() {
 
                     <div>
                         <h1  className="text-orange-500 text-lg font-semibold">Contact</h1>
-                        <ul>
+                        <ul className="mt-2 space-y-1">
                             <li className="text-gray-700 cursor-pointer hover:underline">Phone Number</li>
                             <li className="text-gray-700 cursor-pointer hover:underline">Email Address</li>
                             <li className="text-gray-700 cursor-pointer hover:underline">Social Media</li>
